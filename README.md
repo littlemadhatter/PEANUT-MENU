@@ -6,5 +6,7 @@
  just copy mainmenu and replace it in the english file 
  
  a youtube video to guide you https://youtu.be/Chh4s0OyPs8
- 
+
+peanut menu https://youtu.be/aOOPkXJSRaQ
+
  enjoy the files
